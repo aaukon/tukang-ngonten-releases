@@ -3,7 +3,7 @@
 **TukaNgonten** adalah aplikasi desktop Windows ringan (~6 MB) untuk kreator konten faceless (YouTube, TikTok, Reels, Shorts) dan kreator affiliate (TikTok Shop / Shopee). Susun judul, naskah, suara (TTS), puluhan gambar konsisten, subtitle animasi, musik latar, hingga render MP4 Full HD 1080p dalam satu aplikasi.
 
 ## Unduh Versi Terbaru
-- **Windows 10 / 11 (64-bit):** Unduh **`Setup-TukaNgonten-v27.exe`** di halaman **[Releases Terbaru](https://github.com/aaukon/tukang-ngonten-releases/releases/latest)**.
+- **Windows 10 / 11 (64-bit):** Unduh installer TukaNgonten versi terbaru di halaman [Releases Terbaru](https://github.com/aaukon/tukang-ngonten-releases/releases/latest)**.
 - *Arsip versi sebelumnya tetap tersedia di halaman Releases.*
 
 ## Fitur Utama
