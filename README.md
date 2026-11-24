@@ -35,6 +35,6 @@
 *Catatan: Token hanya terpotong 1x setelah video MP4 selesai dirender. Jika render gagal atau dibatalkan, token tidak berkurang.*
 
 ## Bantuan & CS 24/7
-- **CS Otomatis 24/7 (Gemini Gem):** `[Tempel Link Public Viewer Gemini Gem Anda di sini]`
+- **Pusat Bantuan & CS 24/7:** [Buka Pusat Bantuan TukaNgonten](https://tukang-ngonten-api.aaukon-27.workers.dev/bantuan)
+- **Kebijakan Privasi, Syarat & Refund:** [Lihat Dokumen Legal](https://tukang-ngonten-api.aaukon-27.workers.dev/legal)
 - **Laporkan Kendala Teknis:** Gunakan tombol **Lapor Error** di menu `Akun ▾ → Log` langsung dari dalam aplikasi.
-```
